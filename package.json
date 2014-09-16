@@ -1,0 +1,22 @@
+{
+    "name": "micro-nlp",
+    "description": "A natural language processor for node javascript.",
+    "homepage": "www.github.com/afzaalace/miccro-nlp",
+    "keywords": [
+    "nlp"
+  ],
+    "author": {
+        "name": "afzaalace",
+        "email": "afzaal@afzaalace.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/afzaalace/micro-nlp.git"
+    },
+    "main": "index.js",
+    "version": "0.1.1",
+    "dependencies": {
+        "levenshtein": "*"
+    },
+    "devDependencies": {}
+}
